@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup # Beautiful soup is a library for pulling data out
 # with open("website.html") as file:
 #     contents = file.read()
 #
-# soup = BeautifulSoup(contents, "html.parser") # html.website helps to contents
+# soup = BeautifulSoup(contents, "html.parser") # html.parser helps to contents
 #
 # # How to access website.html data using code.
 # # print(soup.title) Get the title of the web page, .a , .p , .h2 when use those things that can get the related things in here.
